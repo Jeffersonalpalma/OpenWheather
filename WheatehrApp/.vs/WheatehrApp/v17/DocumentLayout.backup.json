@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\programacao\\c#\\WheatehrApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|c:\\programacao\\c#\\wheatehrapp\\models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|solutionrelative:models\\info.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|c:\\programacao\\c#\\wheatehrapp\\appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|solutionrelative:appshell.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|c:\\programacao\\c#\\wheatehrapp\\views\\infoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|solutionrelative:views\\infoview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|c:\\programacao\\c#\\wheatehrapp\\viewmodels\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|solutionrelative:viewmodels\\weatherviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|c:\\programacao\\c#\\wheatehrapp\\appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|solutionrelative:appshell.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|c:\\programacao\\c#\\wheatehrapp\\views\\infoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{80F00953-85B7-4D48-B852-65B98964BC9D}|WheatehrApp.csproj|solutionrelative:views\\infoview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Info.cs",
+              "DocumentMoniker": "C:\\programacao\\c#\\WheatehrApp\\Models\\Info.cs",
+              "RelativeDocumentMoniker": "Models\\Info.cs",
+              "ToolTip": "C:\\programacao\\c#\\WheatehrApp\\Models\\Info.cs",
+              "RelativeToolTip": "Models\\Info.cs",
+              "ViewState": "AgIAAFEAAAAAAAAAAAA7wGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T15:10:40.66Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AppShell.xaml",
+              "DocumentMoniker": "C:\\programacao\\c#\\WheatehrApp\\AppShell.xaml",
+              "RelativeDocumentMoniker": "AppShell.xaml",
+              "ToolTip": "C:\\programacao\\c#\\WheatehrApp\\AppShell.xaml",
+              "RelativeToolTip": "AppShell.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-05T02:12:27.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InfoView.xaml.cs",
+              "DocumentMoniker": "C:\\programacao\\c#\\WheatehrApp\\Views\\InfoView.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\InfoView.xaml.cs",
+              "ToolTip": "C:\\programacao\\c#\\WheatehrApp\\Views\\InfoView.xaml.cs",
+              "RelativeToolTip": "Views\\InfoView.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:55:24.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WeatherViewModel.cs",
+              "DocumentMoniker": "C:\\programacao\\c#\\WheatehrApp\\ViewModels\\WeatherViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\WeatherViewModel.cs",
+              "ToolTip": "C:\\programacao\\c#\\WheatehrApp\\ViewModels\\WeatherViewModel.cs",
+              "RelativeToolTip": "ViewModels\\WeatherViewModel.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAwwHkAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-05T01:37:13.843Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppShell.xaml.cs",
+              "DocumentMoniker": "C:\\programacao\\c#\\WheatehrApp\\AppShell.xaml.cs",
+              "RelativeDocumentMoniker": "AppShell.xaml.cs",
+              "ToolTip": "C:\\programacao\\c#\\WheatehrApp\\AppShell.xaml.cs",
+              "RelativeToolTip": "AppShell.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-04T14:35:33.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "InfoView.xaml",
+              "DocumentMoniker": "C:\\programacao\\c#\\WheatehrApp\\Views\\InfoView.xaml",
+              "RelativeDocumentMoniker": "Views\\InfoView.xaml",
+              "ToolTip": "C:\\programacao\\c#\\WheatehrApp\\Views\\InfoView.xaml",
+              "RelativeToolTip": "Views\\InfoView.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-12-03T23:16:24.428Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
